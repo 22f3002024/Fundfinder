@@ -1,0 +1,24 @@
+# Ignore .env files
+.env
+data/master_data.csv
+.venv
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+
+# Ignore virtual environment directory
+venv/
+.env/
+*.env
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
